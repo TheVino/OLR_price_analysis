@@ -20,12 +20,12 @@ Firstly the code was running using chromedirver (selenium), but the performance 
 Below is the Benchmark of the updat from Selenium to bs4 + urllib.
 
 ### Example
-![Selenium to bs4 + urllib](https://imgur.com/a/oxk9JzK)
+![Selenium to bs4 + urllib](https://i.imgur.com/D9PEkwQ.png)
 
 
 ### Further Examples
 Here I searched for a russian website (dns-shop) to scrap the price:
-![dns-shop](https://imgur.com/7CqKcqM)
+![dns-shop](https://i.imgur.com/7CqKcqM.png)
 
 Every website is built different, so parsing url for each site needs some work first*
 
